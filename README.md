@@ -1,6 +1,6 @@
 ## Olá! Eu Sou Vinicius Honorio👋
 
-- 🔭 Dev Front-End
+- 🔭 Dev FullStack
 
 <div>
   <a href="https://github.com/Honorioo">
