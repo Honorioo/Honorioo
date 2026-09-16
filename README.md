@@ -1,6 +1,6 @@
 ## Olá! Eu Sou Vinicius Honorio👋
 
-🔭 QA Tester
+🔭 Dev
 
 <div>
   <a href="https://github.com/Honorioo">
